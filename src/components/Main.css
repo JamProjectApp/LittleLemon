@@ -1,0 +1,7 @@
+/* Main.css */
+.card-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
