@@ -4,7 +4,6 @@ import Footer from './components/Footer';
 import Main from './components/Main';
 import Nav from './components/Nav';
 import './App.css';
-import BookingForm from './components/BookingForm';
 
 function App() {
   return (

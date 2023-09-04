@@ -12,7 +12,7 @@ function CustomCard({ image, title, description }) {
       <Card.Body className="d-flex flex-column">
         <Card.Title>{title}</Card.Title>
         <Card.Text className="flex-grow-1">{description}</Card.Text>
-        <button type="button" class="btn btn-success">Add to basket</button>
+        <button type="button" class="btn btn-success">See More</button>
       </Card.Body>
     </Card>
   );

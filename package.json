@@ -17,6 +17,8 @@
     "bootstrap": "^4.6.2",
     "date-fns": "^2.30.0",
     "dayjs": "^1.11.9",
+    "font-awesome": "^4.7.0",
+    "mdb-react-ui-kit": "^6.2.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.8.0",
     "react-datepicker": "^4.16.0",
